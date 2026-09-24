@@ -342,6 +342,137 @@ const translations = {
         send_success: "सन्देश सफलतापूर्वक पठाइयो!",
         send_fail: "पठाउन असफल भयो। कृपया फेरि प्रयास गर्नुहोस्।",
     },
+
+    SA: {
+    nav_home: "मुखपृष्ठम्",
+    nav_about: "मम विषये",
+    nav_skills: "कौशलानि",
+    nav_projects: "प्रकल्पाः",
+    nav_contact: "सम्पर्कः",
+
+    hero_eyebrow: "सूचनाविज्ञानम् · विद्यार्थी विकासकः",
+    hero_greet: "नमस्ते, अहम् अस्मि",
+    hero_desc: "नेपालस्य कपने स्थितः कनिष्ठः IT Support तथा Frontend Developer अस्मि। स्वच्छान् interface, data-based systems तथा interactive experiences निर्मातुं रुचिं वहामि।",
+    hero_btn_download: "CV / Resume अवतारयतु",
+    hero_btn_projects: "प्रकल्पान् पश्यतु",
+
+    about_label: "मम परिचयः",
+    about_title: "मम विषये",
+    about_heading: "सूचनाविज्ञानस्य विद्यार्थी &<br />कनिष्ठः विकासकः",
+    about_p1: "अहं <strong>Sabin Dhungel</strong> अस्मि। Programming, frontend web development, Flutter mobile apps, multimedia, game development तथा data processing इत्येतेषु क्षेत्रेषु व्यावहारिकः अनुभवः अस्ति।",
+    about_p2: "वर्तमानकाले IT Support, Fullstack Development, UI/UX Design तथा Game Development इत्येतेषु क्षेत्रेषु remote तथा hybrid कार्यावसरान् अन्विष्यामि।",
+
+    about_stat_projects: "प्रकल्पाः",
+    about_stat_skills: "कौशलक्षेत्राणि",
+    about_stat_angkatan: "समूहः",
+
+    about_p3: "VS Code, Microsoft Office Suite, Adobe Premiere Pro, After Effects, Photoshop, Figma, Canva, Unity, Jupyter Notebook, Google Colab इत्यादीनि साधनानि उपयोजयितुं शक्नोमि।",
+
+    about_btn_cv: "CV अवतारयतु",
+    about_btn_contact: "सम्पर्कं कुरुत",
+
+    skills_label: "मम कौशलानि",
+    skills_title: "प्राविधिककौशलम्",
+    skills_subtitle: "Junior IT Support तथा Web Developer रूपेण मम वर्तमानकौशलस्य संक्षिप्तः परिचयः।",
+
+    sk1_title: "Programming",
+    sk1_desc: "C, C#, Java तथा Python इत्येतेषां मूलभूतं ज्ञानम्।",
+    sk1_i1_h: "IDE",
+    sk1_i1_p: "VSCode, CodeBlocks, NetBeans",
+    sk1_i2_h: "समस्यासमाधानम्",
+    sk1_i2_p: "Debugging तथा workflow ज्ञानम्",
+    sk1_i3_h: "Code दक्षता",
+    sk1_i3_p: "Memory leak परिहारः तथा clean code अभ्यासः",
+
+    sk2_title: "Frontend Web Development",
+    sk2_desc: "Responsive तथा सुव्यवस्थितानां websites निर्माणम्।",
+    sk2_i1_h: "मुख्यप्रविधयः",
+    sk2_i1_p: "HTML5, CSS3, JavaScript",
+    sk2_i2_h: "UI Implementation",
+    sk2_i2_p: "Mockup तः web layout निर्माणम्",
+    sk2_i3_h: "Responsive Design",
+    sk2_i3_p: "Flexbox, Grid तथा media queries",
+
+    sk3_title: "Mobile App Development",
+    sk3_desc: "Dart भाषया Flutter आधारित Android applications।",
+    sk3_i1_h: "Framework",
+    sk3_i1_p: "Flutter (Dart)",
+    sk3_i2_h: "संरचना",
+    sk3_i2_p: "Navigation, widgets तथा basic state management",
+    sk3_i3_h: "कार्यप्रवाहः",
+    sk3_i3_p: "VSCode, emulator testing तथा basic debugging",
+
+    sk4_title: "IT Support तथा System Assistance",
+    sk4_desc: "मूलभूतः maintenance तथा troubleshooting।",
+    sk4_i1_h: "System Support",
+    sk4_i1_p: "Windows installation, configuration तथा application setup",
+    sk4_i2_h: "Troubleshooting",
+    sk4_i2_p: "Hardware तथा software समस्याणां परिचयः",
+    sk4_i3_h: "Hardware",
+    sk4_i3_p: "मूलभूतानि computer components तथा peripherals",
+
+    sk5_title: "Multimedia तथा Design",
+    sk5_desc: "Visual content, editing तथा UI mockups।",
+    sk5_i1_h: "Design Tools",
+    sk5_i1_p: "Figma, Canva",
+    sk5_i2_h: "Editing Software",
+    sk5_i2_p: "Adobe Premiere Pro, After Effects, Photoshop",
+    sk5_i3_h: "उपयोगाः",
+    sk5_i3_p: "Video editing, image editing तथा UI mockups",
+
+    sk6_title: "Game Development",
+    sk6_desc: "Unity तथा Roblox Studio प्रकल्पाः।",
+    sk6_i1_h: "Engines",
+    sk6_i1_p: "Unity, Roblox Studio",
+    sk6_i2_h: "Programming",
+    sk6_i2_p: "C# scripting, Lua scripting तथा gameplay logic",
+    sk6_i3_h: "कार्याणि",
+    sk6_i3_p: "UI systems, player interactions तथा asset integration",
+
+    sk7_title: "Data Processing",
+    sk7_desc: "Python द्वारा data cleaning, analysis तथा visualization।",
+    sk7_i1_h: "Tools",
+    sk7_i1_p: "Google Colab, Jupyter Notebook",
+    sk7_i2_h: "Libraries",
+    sk7_i2_p: "Pandas, NumPy, Matplotlib, Seaborn",
+    sk7_i3_h: "Machine Learning",
+    sk7_i3_p: "TF-IDF, Complement Naive Bayes तथा classification models",
+
+    projects_label: "मम कार्यम्",
+    projects_title: "प्रकल्पाः",
+    projects_subtitle: "Web, mobile, AI, game तथा data क्षेत्रेषु निर्मितानां academic, personal तथा team projects इत्येषां परिचयः।",
+    see_more: "अधिकं पश्यतु",
+
+    contact_label: "सम्पर्कं कुरुत",
+    contact_title: "एकत्र कार्यं कुर्मः",
+    contact_subtitle: "IT Support, Programming, Frontend Web Development, UI/UX Design, Flutter तथा multimedia क्षेत्रेषु अवसरानां कृते उपलब्धः अस्मि।",
+
+    contact_email_label: "Email",
+    contact_linkedin_label: "LinkedIn",
+    contact_github_label: "GitHub",
+    contact_ig_label: "Instagram",
+    contact_yt_label: "YouTube",
+    contact_tiktok_label: "TikTok",
+    contact_location_label: "स्थानम्",
+    contact_location_value: "कपन, काठमाण्डौ, नेपाल",
+
+    contact_form_title: "सन्देशं प्रेषयतु",
+    form_name_label: "नाम",
+    form_name_ph: "भवतः नाम",
+    form_email_label: "Email",
+    form_email_ph: "your@email.com",
+    form_subject_label: "विषयः",
+    form_subject_ph: "कस्मिन् विषये वार्तालापः इच्छ्यते?",
+    form_message_label: "सन्देशः",
+    form_message_ph: "विस्तरेण लिखतु...",
+    form_submit: "सन्देशं प्रेषयतु",
+
+    footer_rights: "सर्वे अधिकाराः सुरक्षिताः।",
+    alert_fill_fields: "कृपया सर्वाणि आवश्यकानि क्षेत्राणि पूरयतु।",
+    sending: "प्रेषणं क्रियते…",
+    send_success: "सन्देशः सफलतया प्रेषितः!",
+    send_fail: "सन्देशप्रेषणे विफलता। पुनः प्रयत्नं कुरुत।"
+},
 };
 
 // Keep original (EN) text as fallback source, captured from DOM on load.
@@ -476,9 +607,10 @@ const langOptionLeft = document.getElementById("langOptionLeft");
 const langOptionRight = document.getElementById("langOptionRight");
 
 const langNeighbors = {
-    EN: { left: "HI", right: "NE" },
-    HI: { left: null, right: "EN" },
-    NE: { left: "EN", right: null },
+    EN: { left: "SA", right: "NE" },
+    HI: { left: "NE", right: null },
+    NE: { left: "EN", right: "HI" },
+    SA: { left: null, right: "EN" },
 };
 
 let currentLanguage = "EN";
@@ -596,6 +728,9 @@ function getLanguageLabel(language) {
     }
     if (language === "NE") {
         return "NE";
+    }
+    if (language === "SA") {
+        return "SA";
     }
     return "EN";
 }
